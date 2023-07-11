@@ -4,8 +4,9 @@ I'm using Autodesk AutoCAD 2022.
 
 Cheat sheet for **AutoCAD for Beginners - Full University Course**
 
-Link: https://www.youtube.com/watch?v=VtLXKU1PpRU
+Link: **https://www.youtube.com/watch?v=VtLXKU1PpRU**
 
+Commands cheat sheet: **https://lthdigital.files.wordpress.com/2020/01/aada05_commands.pdf**
 
 Remove drag lasso -> type **'options'** -> press **'enter'** -> go to **'selection'** -> untap **'Allow press and drag for Lasso'**
 
