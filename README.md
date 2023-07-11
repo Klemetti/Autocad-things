@@ -1,6 +1,8 @@
 # Autocad-things
-Learning AutoCad. I'm using Autodesk AutoCAD 2022.
 
+I'm using Autodesk AutoCAD 2022.
+
+Cheat sheet for ** AutoCAD for Beginners - Full University Course **
 Link: https://www.youtube.com/watch?v=VtLXKU1PpRU
 
 In order:
@@ -18,3 +20,6 @@ Draw a line -> type **'l'** -> press **'enter'**
 or
 
 select **'Home'** -> **'Line'**
+
+Draw whatever shape you like
+
