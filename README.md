@@ -1,5 +1,5 @@
 # Autocad-things
-Learning AutoCad
+Learning AutoCad. I'm using Autodesk AutoCAD 2022.
 
 Link: https://www.youtube.com/watch?v=VtLXKU1PpRU
 
