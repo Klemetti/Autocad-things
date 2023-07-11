@@ -26,3 +26,4 @@ Only 90 degree angles:
 
 ![image](https://github.com/Klemetti/Autocad-things/assets/62512248/f7809831-8c0e-417b-9411-458db9ef2e32)
 
+Make polyline into multiple lines: **'EXPLODE'**
