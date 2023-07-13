@@ -29,3 +29,27 @@ Only 90 degree angles:
 Make polyline into multiple lines: **'EXPLODE'**
 
 Make multiple lines into polyline: **'JOIN'**
+
+F3 = Object snap.
+
+ON = you can attach lines to excisting shapes
+
+OFF = you cannot attach lines to excisting shapes
+
+Move = M = move the thing
+
+Copy = CO = copy the thing
+
+Rotate = RO = rotate the thing
+
+Scale = SC = scale the thing
+
+Mirror = MI = mirror the thing
+
+Trim = TR = trim the thing
+
+Extend = EX = extend the thing
+
+Fillet = F = fillet things
+
+Lost? Z -> Enter -> E -> Enter
