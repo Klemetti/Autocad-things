@@ -12,5 +12,6 @@ PDF files are available by default, I can send .dwg files if you ask.
 
 ## Project 2 - 3 Objects
 
-![image](https://github.com/Klemetti/Autocad-things/assets/62512248/ab2afc63-70ff-4086-96d0-b036dcfb2a51)
+![image](https://github.com/Klemetti/Autocad-things/assets/62512248/98d693a4-210d-440b-b48a-84076d5d24a6)
+
 
