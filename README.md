@@ -1,10 +1,10 @@
-# Autocad-things
+# Autocad-things (Work in progress)
 
 Here are my AutoCad projects.
 
 I'm using Autodesk AutoCAD 2022.
 
-PDF files are available by default, I can send .dwg files if you ask (with good reason)
+PDF files are available by default, I can send .dwg files if you ask.
 
 ## Project 1 - Small cabin
 
