@@ -1,5 +1,7 @@
 # Autocad-things (Work in progress)
 
+https://www.linkedin.com/in/niko-klemetti-3b588a16b/
+ 
 Here are my AutoCad projects.
 
 I'm using Autodesk AutoCAD 2022.
