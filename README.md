@@ -19,3 +19,7 @@ PDF files are available by default, I can send .dwg files if you ask.
 ## Project 3 - Electrical Control Panel
 
 ![image](https://github.com/Klemetti/Autocad-things/assets/62512248/33dd13aa-3cf5-44b0-b4cd-abb6e7f1ba36)
+
+## Project 4 - 3D Object
+
+![image](https://github.com/Klemetti/Autocad-things/assets/62512248/bb45ba3f-28fa-4e5e-a9f7-45c61e6eabf2)
